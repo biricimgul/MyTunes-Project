@@ -18,5 +18,5 @@ Google Fonts
 
 <h2> Screenshot </h2>
 
-! [](screen.gif)
+![](screen.gif)
 
